@@ -22,10 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-src/
-├── components/     # UI components
-├── hooks/          # Custom hooks
-├── context/        # State management
-├── types/          # TypeScript definitions
-├── utils/          # Helper functions
-└── reducers/       # State logic
